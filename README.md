@@ -8,7 +8,8 @@ The main goal was to upload a simple TensorFlow model to the STM32 kit and measu
 
 * **STM32H743ZI** development kit
 
-![Uploading Screenshot 2026-09-26 231317.png…]()
+<img width="552" height="287" alt="Screenshot 2026-09-26 231317" src="https://github.com/user-attachments/assets/cab36300-5247-4943-8a10-c47095082b22" />
+
 
 
 ## Project Steps
